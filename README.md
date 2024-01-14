@@ -8,7 +8,7 @@
 Edit this git in MakeCode
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then on **Import URL **
+* click on **Import** then on **Import URL**
 * paste **https://github.com/onyyyyx/maze_game** and finally click on **Import**
 
 #### Metadata
