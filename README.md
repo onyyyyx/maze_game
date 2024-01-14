@@ -1,24 +1,20 @@
+# Maze game
 
-> Ouvrir cette page à [https://onyyyyx.github.io/maze_game/](https://onyyyyx.github.io/maze_game/)
+* Avoid low powered leds. 
+* You always start on the bottom-left and have to go at the opposite side
 
-## Utiliser comme extension
+## Edit this project 
 
-Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
+Edit this git in MakeCode
 
-* ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* cliquez sur **Nouveau projet**
-* cliquez sur **Extensions** dans le menu engrenage
-* recherchez **https://github.com/onyyyyx/maze_game** et importez
+* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* click on **Import** then on **Import URL **
+* paste **https://github.com/onyyyyx/maze_game** and finally click on **Import**
 
-## Éditer ce projet
-
-Éditer ce dépôt dans MakeCode.
-
-* ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* cliquez sur **Importer** puis cliquez sur **Importer l'URL **
-* collez **https://github.com/onyyyyx/maze_game** et cliquez sur importer
-
-#### Métadonnées (utilisées pour la recherche, le rendu)
+#### Metadata
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+
+> Web version [https://onyyyyx.github.io/maze_game/](https://onyyyyx.github.io/maze_game/)
